@@ -1,0 +1,12 @@
+D:\C# projeler\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+D:\C# projeler\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+D:\C# projeler\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+D:\C# projeler\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+D:\C# projeler\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+D:\C# projeler\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+D:\C# projeler\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+D:\C# projeler\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+D:\C# projeler\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+D:\C# projeler\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+D:\C# projeler\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+D:\C# projeler\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
